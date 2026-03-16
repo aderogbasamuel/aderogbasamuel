@@ -23,8 +23,8 @@ I build tools that help people think, plan, and achieve goals.
 - Building cool internet tools
 
 ## 📫 Reach Me
-- LinkedIn: (add your linkedin later)
-- Email: (optional)
+- LinkedIn: ![](https://www.linkedin.com/in/samuel-aderogba-6952aa338)
+- Email: developersamzy@gmail.com
 
 ⚡ Fun fact: I'm building products while studying Computer Engineering.
 
