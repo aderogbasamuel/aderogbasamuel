@@ -4,11 +4,6 @@ Frontend Developer | Product Builder | Hackathon Enthusiast
 
 I build tools that help people think, plan, and achieve goals.
 
-## 🚀 Current Projects
-- **Doquora** – Goal achievement platform
-- **BJWise** – Educational learning platform
-- **Strk** – Sporty streak tracker for habit consistency
-- **Weather Know** – Weather app powered by OpenWeather API
 
 ## 🛠 Tech Stack
 - React
