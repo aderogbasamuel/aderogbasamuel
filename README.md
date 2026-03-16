@@ -1,16 +1,38 @@
-## Hi there 👋
+# Samuel Aderogba 👋
 
-<!--
-**aderogbasamuel/aderogbasamuel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend Developer | Product Builder | Hackathon Enthusiast
 
-Here are some ideas to get you started:
+I build tools that help people think, plan, and achieve goals.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Projects
+- **Doquora** – Goal achievement platform
+- **BJWise** – Educational learning platform
+- **Strk** – Sporty streak tracker for habit consistency
+- **Weather Know** – Weather app powered by OpenWeather API
+
+## 🛠 Tech Stack
+- React
+- JavaScript
+- React Native
+- Firebase (Firestore)
+- HTML & CSS
+
+## 🌱 Currently Learning
+- Redux
+- Advanced React architecture
+- Building scalable startup products
+
+## 🤝 Open To
+- Hackathons
+- Startup collaborations
+- Building cool internet tools
+
+## 📫 Reach Me
+- LinkedIn: (add your linkedin later)
+- Email: (optional)
+
+⚡ Fun fact: I'm building products while studying Computer Engineering.
+
+![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=aderogbasamuel&show_icons=true&theme=tokyonight)
+
+![](https://komarev.com/ghpvc/?username=aderogbasamuel)
