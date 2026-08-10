@@ -44,5 +44,4 @@ I build tools that help people trade, plan, and get things done — safely and s
 
 ⚡ Fun fact: I'm building two products while studying Computer Engineering — one live, one in progress.
 
-![Sam's GitHub stats](https://github-readme-stats.vercel.app/api?username=aderogbasamuel&show_icons=true&theme=tokyonight)
 ![](https://komarev.com/ghpvc/?username=aderogbasamuel)
